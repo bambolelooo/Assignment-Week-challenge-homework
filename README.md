@@ -12,9 +12,9 @@ If you want to look at this *refreshed* website just visit: https://bambolelooo.
 
 
 ## Files & directories
-HTML: //index.html
-CSS:  //assets/css/style.css
-Images: //assets/images/*
+ #HTML: //index.html
+ #CSS:  //assets/css/style.css
+ #Images: //assets/images/*
 
 
 ## License
