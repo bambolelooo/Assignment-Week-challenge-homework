@@ -11,7 +11,7 @@ body {
 }
 
 /* header  */
-.header {
+header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
@@ -19,13 +19,13 @@ body {
 }
 
 /* company name  */
-.header h1 {
+header h1 {
     display: inline-block;
     font-size: 48px;
 }
 
 /* navbar */
-.header div {
+header nav {
     padding-top: 15px;
     margin-right: 20px;
     float: right;
@@ -34,7 +34,7 @@ body {
 }
 
 /* navbar list links */
-.header div ul li {
+header nav ul li {
     list-style-type: none;
     display: inline-block;
     margin-left: 25px;
@@ -104,7 +104,7 @@ p {
 
 
 /* benefits section */
-.benefits {
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
@@ -135,7 +135,7 @@ p {
 }
 
 /* footer style */
-.footer {
+footer {
     padding: 30px;
     clear: both;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -143,6 +143,6 @@ p {
 }
 
 /* footer text */
-.footer h2 {
+footer h4 {
     font-size: 20px;
 }
